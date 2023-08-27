@@ -1,0 +1,18 @@
+from turtle import*
+pensize(1)
+pencolor("red")
+goto(0,0)
+circle(10)
+penup()
+goto(0,-10)
+pendown()
+circle(20)
+penup()
+goto(0,-20)
+pendown()
+circle(30)
+penup()
+goto(0,-30)
+pendown()
+circle(40)
+
